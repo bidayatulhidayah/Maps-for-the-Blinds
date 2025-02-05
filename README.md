@@ -30,8 +30,10 @@ The second mode is the assistive technology system, each state is equipped with 
 <img src="https://github.com/bidayatulhidayah/Maps-for-the-Blinds/blob/main/Images%20and%20Diagram/Circuit%20Diagram.png?raw=true" alt="Circuit Diagram" width="300" />
 
 
-
 ## Control Flow Chart
+
+<img src="https://github.com/bidayatulhidayah/Maps-for-the-Blinds/blob/main/Images%20and%20Diagram/Control%20Flow%20Chart.png?raw=true" width="400" />
+
 
 ## Reference Video and Image
 
