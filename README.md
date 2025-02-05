@@ -47,7 +47,7 @@ The second mode is the assistive technology system, each state is equipped with 
 
 ## Full Report
 
-[📥 Final Report (PDF)](https://github.com/bidayatulhidayah/Maps-for-the-Blinds/blob/main/IDP%20Final%20Report%20-%20Maps%20for%20the%20Blind.pdf)
+[📥 Final Report (PDF)](https://github.com/bidayatulhidayah/Maps-for-the-Blinds/blob/e2624b9da062374908c3aef1aec64a42eee2abff/Report/IDP%20Final%20Report%20-%20Maps%20for%20the%20Blind.pdf)
 
 
 
