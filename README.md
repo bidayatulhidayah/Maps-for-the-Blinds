@@ -37,7 +37,7 @@ The second mode is the assistive technology system, each state is equipped with 
 
 ## Reference Video and Image
 
-[YouTube Video](https://youtu.be/ZxWtpYeG-e8)
+- [YouTube Video](https://youtu.be/ZxWtpYeG-e8)
 
 <img src="https://github.com/bidayatulhidayah/Maps-for-the-Blinds/blob/99c398113041ae10c4479dce7a31d58ecb4e8c76/Images%20and%20Diagram/Front%20View.jpg" width="400" />
 
