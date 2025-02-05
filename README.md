@@ -29,6 +29,13 @@ The second mode is the assistive technology system, each state is equipped with 
 
 
 
+## Control Flow Chart
+
+## Reference Video and Image
+
+## Full Report
+
+
 
 
 
