@@ -27,7 +27,8 @@ The second mode is the assistive technology system, each state is equipped with 
 
 ## Circuit Diagram
 
-<img src="Diagram/Circuit%20Diagram.png" alt="Circuit Diagram" width="400" />
+<img src="https://github.com/bidayatulhidayah/Maps-for-the-Blinds/blob/main/Images%20and%20Diagram/Circuit%20Diagram.png?raw=true" alt="Circuit Diagram" width="400" />
+
 
 
 ## Control Flow Chart
