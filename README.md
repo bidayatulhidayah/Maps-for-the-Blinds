@@ -43,7 +43,7 @@ The second mode is the assistive technology system, each state is equipped with 
 
 <img src="https://github.com/bidayatulhidayah/Maps-for-the-Blinds/blob/main/Images%20and%20Diagram/Testing%201.jpg?raw=true" width="400" />
 
-<img src="<img src="https://github.com/bidayatulhidayah/Maps-for-the-Blinds/blob/main/Images%20and%20Diagram/Testing%201.jpg?raw=true" width="400" />" width="400" />
+<img src="https://github.com/bidayatulhidayah/Maps-for-the-Blinds/blob/main/Images%20and%20Diagram/Testing%202.jpg?raw=true" width="400" />
 
 
 
